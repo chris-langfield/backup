@@ -1,4 +1,4 @@
-[Contact](https://chris-langfield.github.io/contact)
+| [Contact](https://chris-langfield.github.io/contact) |
 
 ## Chris Langfield
 
